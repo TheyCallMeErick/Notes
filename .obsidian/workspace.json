@@ -98,78 +98,7 @@
   "right": {
     "id": "d00edd3c807d6fdf",
     "type": "split",
-    "children": [
-      {
-        "id": "32898823f242d6e7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fd0fb95c26e99896",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Cloud/Azure/AZ-900/2. Benefícios da Nuvem Azure.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Links inversos para 2. Benefícios da Nuvem Azure"
-            }
-          },
-          {
-            "id": "9776af4296672a3f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Cloud/Azure/AZ-900/2. Benefícios da Nuvem Azure.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída para 2. Benefícios da Nuvem Azure"
-            }
-          },
-          {
-            "id": "c6c0938f656bc379",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "3004bb5444b3eca3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Cloud/Azure/AZ-900/2. Benefícios da Nuvem Azure.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de 2. Benefícios da Nuvem Azure"
-            }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
