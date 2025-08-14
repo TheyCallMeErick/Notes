@@ -11,10 +11,14 @@
             "id": "79d366987ecacb86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Teste.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Teste"
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Teste"
             }
           },
           {
@@ -119,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Teste"
             }
           },
           {
@@ -147,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Teste.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Teste"
             }
           }
         ],
@@ -173,6 +180,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79d366987ecacb86",
-  "lastOpenFiles": []
+  "active": "b8abdb18f6efc458",
+  "lastOpenFiles": [
+    "Teste.md"
+  ]
 }
